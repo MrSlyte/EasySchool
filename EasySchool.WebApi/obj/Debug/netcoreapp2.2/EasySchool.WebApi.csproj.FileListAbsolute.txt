@@ -1,0 +1,15 @@
+E:\sources\EasySchool\EasySchool.WebApi\bin\Debug\netcoreapp2.2\EasySchool.WebApi.deps.json
+E:\sources\EasySchool\EasySchool.WebApi\bin\Debug\netcoreapp2.2\EasySchool.WebApi.runtimeconfig.json
+E:\sources\EasySchool\EasySchool.WebApi\bin\Debug\netcoreapp2.2\EasySchool.WebApi.runtimeconfig.dev.json
+E:\sources\EasySchool\EasySchool.WebApi\bin\Debug\netcoreapp2.2\EasySchool.WebApi.dll
+E:\sources\EasySchool\EasySchool.WebApi\bin\Debug\netcoreapp2.2\EasySchool.WebApi.pdb
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.csprojAssemblyReference.cache
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.csproj.CoreCompileInputs.cache
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.RazorAssemblyInfo.cache
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.RazorAssemblyInfo.cs
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.AssemblyInfoInputs.cache
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.AssemblyInfo.cs
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.RazorTargetAssemblyInfo.cache
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.dll
+E:\sources\EasySchool\EasySchool.WebApi\obj\Debug\netcoreapp2.2\EasySchool.WebApi.pdb
+E:\sources\EasySchool\EasySchool.WebApi\bin\Debug\netcoreapp2.2\EasySchool.WebApi.xml
