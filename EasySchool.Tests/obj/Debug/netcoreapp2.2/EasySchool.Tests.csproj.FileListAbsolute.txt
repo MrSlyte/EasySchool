@@ -1,0 +1,14 @@
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\EasySchool.Tests.deps.json
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\EasySchool.Tests.runtimeconfig.json
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\EasySchool.Tests.runtimeconfig.dev.json
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\EasySchool.Tests.dll
+e:\sources\EasySchool\EasySchool.Tests\bin\Debug\netcoreapp2.2\EasySchool.Tests.pdb
+e:\sources\EasySchool\EasySchool.Tests\obj\Debug\netcoreapp2.2\EasySchool.Tests.csprojAssemblyReference.cache
+e:\sources\EasySchool\EasySchool.Tests\obj\Debug\netcoreapp2.2\EasySchool.Tests.csproj.CoreCompileInputs.cache
+e:\sources\EasySchool\EasySchool.Tests\obj\Debug\netcoreapp2.2\EasySchool.Tests.AssemblyInfoInputs.cache
+e:\sources\EasySchool\EasySchool.Tests\obj\Debug\netcoreapp2.2\EasySchool.Tests.AssemblyInfo.cs
+e:\sources\EasySchool\EasySchool.Tests\obj\Debug\netcoreapp2.2\EasySchool.Tests.dll
+e:\sources\EasySchool\EasySchool.Tests\obj\Debug\netcoreapp2.2\EasySchool.Tests.pdb
